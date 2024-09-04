@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "rb.h"
-#include "rb_data.h"
+#include "red_black_tree/rb.h"
+#include "red_black_tree/rb_data.h"
 #include "proc.h"
 
 #define PROCESS_COUNT 3
