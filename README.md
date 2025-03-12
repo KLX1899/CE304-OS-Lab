@@ -1,5 +1,5 @@
-# Operating Systems Course Materials
-### (CE303-OS) 
+# Operating Systems laboratory Course Materials
+### (CE304-OS-Lab) 
 [Computer Engineering Department](https://ceit.aut.ac.ir/) of [Amirkabir University of Technology](https://aut.ac.ir/).<br><br><br>
 
 ## 2018 - Fall
